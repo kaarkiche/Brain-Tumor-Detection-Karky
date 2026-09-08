@@ -1,0 +1,10 @@
+name = "brain-tumor-detection-karky"
+version = "1.0.0"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "streamlit",
+    "tensorflow==2.20.0",
+    "numpy",
+    "pillow",
+    "opencv-python-headless"
+]
